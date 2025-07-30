@@ -1,6 +1,6 @@
 # Genetic Algorithm for the Knapsack Problem 🧬🎒
 
-This project implements a simple **Genetic Algorithm (GA)** to solve the **0/1 Knapsack Problem** — a classic optimization challenge in computer science.
+This project implements a simple **Genetic Algorithm (GA)** to solve the **0/1 Knapsack Problem**
 
 ## 🧠 Problem Overview
 
@@ -49,12 +49,6 @@ Total weight: 10
 - `numpy`
 - `matplotlib`
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### ▶️ Run the script
 
 ```bash
@@ -68,8 +62,7 @@ python main.py
 ```
 knapsack-ga/
 ├── main.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -86,7 +79,3 @@ knapsack-ga/
 This project is licensed under the MIT License.
 
 ---
-
-## 🙌 Acknowledgements
-
-Built with ❤️ for learning and demonstration purposes.
