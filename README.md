@@ -52,7 +52,7 @@ Total weight: 10
 ### ▶️ Run the script
 
 ```bash
-python main.py
+python Knapsack.py
 ```
 
 ---
@@ -61,7 +61,7 @@ python main.py
 
 ```
 knapsack-ga/
-├── main.py
+├── Knapsack.py
 └── README.md
 ```
 
